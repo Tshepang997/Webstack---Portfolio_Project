@@ -1,1 +1,6 @@
-this is about the project
+website name ; LOCAL BASKET
+
+GITHUB Username ; Tshepang997
+
+AUTHORS ; TSHEPANG AND KEABETSWE
+
